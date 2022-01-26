@@ -23,4 +23,4 @@ You can reach me via git hub for feedback.
 ### License
 
 This is under the [MIT](LICENSE) license
-Copyright (c) {2022} **{List of contributors or company name}**
+Copyright (c) {2022} **Alexander Oke**
