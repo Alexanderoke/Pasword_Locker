@@ -19,7 +19,7 @@ The application only retrieves stored passwords
 ## Technologies Used
 Python programing language.
 ## Support and contact details
-
+You can reach me via git hub for feedback.
 ### License
 *{Determine the license under which this application can be used.  See below for more details on licensing.}*
 This is under the [MIT](LICENSE) license
