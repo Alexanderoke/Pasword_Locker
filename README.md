@@ -1,14 +1,14 @@
 # Password Locker
-#### {Brief description of application}, {Date of current version}
-#### By **{List of contributors}**
+#### Password locker manages passwords, 01/2022
+#### By **Alexander Oke**
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+This application serves as a password manager for users who have several online accounts, to keep the paswords safe and retrieve them incase a user forgets a password. 
 ## Setup/Installation Requirements
-* Clone the repo {git clone https://github.com/jonnygovish/cookie-recipe.git}
-* to list setup instructions
-* in a simple
-* easy-to-understand
-* format
+* Clone the repo {git clone https://github.com/Alexanderoke/Pasword_Locker.git}
+* you will need the terminal
+* in the terminal install pip to install pyperclip package
+* run the code using python
+* 
 {Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
 ## Live link
 ## Known Bugs
