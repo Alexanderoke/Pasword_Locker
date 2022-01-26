@@ -17,7 +17,7 @@ The aplication runs on terminal
 ## Known Bugs
 The application only retrieves stored passwords
 ## Technologies Used
-Python programing language.
+Python programing language
 ## Support and contact details
 You can reach me via git hub for feedback.
 ### License
