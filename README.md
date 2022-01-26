@@ -4,7 +4,7 @@
 ## Description
 This application serves as a password manager for users who have several online accounts, to keep the paswords safe and retrieve them incase a user forgets a password. 
 ## Setup/Installation Requirements
-* Clone the repo {git clone https://github.com/Alexanderoke/Pasword_Locker.git}
+* Clone the repo git clone https://github.com/Alexanderoke/Pasword_Locker.git
 * you will need the terminal
 * in the terminal install pip to install pyperclip package
 * run the code using python
