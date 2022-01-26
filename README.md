@@ -13,7 +13,7 @@ The aplication runs on terminal
 # Dependencies
 * pip
 * pyperclip
-* xclip
+* xclip.
 ## Known Bugs
 The application only retrieves stored passwords
 ## Technologies Used
