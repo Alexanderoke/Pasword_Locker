@@ -15,7 +15,7 @@ The aplication runs on terminal
 * pyperclip
 * xclip.
 ## Known Bugs
-The application only retrieves stored passwords
+The application does not display user credentials.
 ## Technologies Used
 Python programing language
 ## Support and contact details
